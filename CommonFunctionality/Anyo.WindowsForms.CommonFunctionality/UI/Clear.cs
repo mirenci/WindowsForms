@@ -22,7 +22,7 @@
                 }
                 if (c is TextBox)
                 {
-                    ((TextBox)c).Clear();
+					((TextBox)c).Clear();
                 }
 
 
